@@ -20,12 +20,12 @@ redirect_from:
 Hi, I am a master student at the School of Marine Science and Technology, Northwestern Polytechnical University, supervised by Prof. [Xiao-Lei Zhang](http://www.xiaolei-zhang.net/). I am also with the Research and Development Institute of Northwestern Polytechnical University, Shenzhen. My research interests include deep learning-based sound source localization and speech separation.
 
 
-# 🏫 Education
+# 🏫 Educations
 - *2021.09 - Present*, M.S. candidate in Information and Communication Engineer, Northwestern Polytechnical University, Xi'an, China.
 - *2017.09 - 2021.06*, B.S. in Communication Engineer, Guangdong Polytechnic Normal University, Guangzhou, China.
 
 
-# 📝 Publication
+# 📝 Publications
 
 **2023**
 - [Rethinking the Output Architecture for Sound Source Localization](https://arxiv.org/abs/2311.12305), **Linfeng Feng**, Xiao-Lei Zhang, and Xuelong Li, **Preprint**.
