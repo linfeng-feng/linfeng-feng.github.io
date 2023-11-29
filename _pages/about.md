@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a master student at the School of Marine Science and Technology, Northwestern Polytechnical University, supervised by Prof. [Xiao-Lei Zhang](http://www.xiaolei-zhang.net/). I am also with the Research and Development Institute of Northwestern Polytechnical University, Shenzhen. My research interests include deep learning-based sound source localization and speech separation.
+Hi, I am currently a master student at the School of Marine Science and Technology, Northwestern Polytechnical University, supervised by Prof. [Xiao-Lei Zhang](http://www.xiaolei-zhang.net/). I am also with the Research and Development Institute of Northwestern Polytechnical University, Shenzhen. My research interests include deep learning-based sound source localization and speech separation.
 
 
 # 🏫 Educations
-- *2021.09 - Present*, M.S. candidate in Information and Communication Engineer, Northwestern Polytechnical University, Xi'an, China.
+- *2024.03 - future*, Ph.D candidate in Information and Communication Engineer, Northwestern Polytechnical University, Xi'an, China.
+- *2021.09 - 2024.03*, M.S. in Information and Communication Engineer, Northwestern Polytechnical University, Xi'an, China.
 - *2017.09 - 2021.06*, B.S. in Communication Engineer, Guangdong Polytechnic Normal University, Guangzhou, China.
 
 
