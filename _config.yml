@@ -21,9 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : |
-                      冯林峰
-                      Linfeng Feng
+  name             : "Linfeng Feng"
   avatar           : "images/profile.png"
   bio              : "Northwestern Polytechnical University"
   location         : "Xi'an, China"
