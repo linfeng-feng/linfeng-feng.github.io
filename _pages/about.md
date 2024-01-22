@@ -31,3 +31,8 @@ Hi, I am currently a master student at the School of Marine Science and Technolo
 **2023**
 - [Rethinking the Output Architecture for Sound Source Localization](https://arxiv.org/abs/2311.12305), **Linfeng Feng**, Xiao-Lei Zhang, and Xuelong Li, **Preprint**.
 - [Soft Label Coding for End-to-end Sound Source Localization with Ad-hoc Microphone Arrays](https://ieeexplore.ieee.org/abstract/document/10094647), **Linfeng Feng**, Yijun Gong, and Xiao-Lei Zhang, **ICASSP 2023**.
+
+
+
+# 💻 Internships
+- *2024.01 - now*, China Telecom Artificial Intelligence Technology Co.Ltd, Beijing.
