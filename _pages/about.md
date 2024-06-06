@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a Ph.D. candidate at the School of Marine Science and Technology, Northwestern Polytechnical University, supervised by Prof. [Xiao-Lei Zhang](http://www.xiaolei-zhang.net/). Concurrently, I serve as an algorithm intern at the Institute of Artificial Intelligence (TeleAI), China Telecom Corp Ltd, where I work under the leadership of [Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm). My research interests include deep learning-based sound source localization and speech separation.
+I am currently working toward the Ph.D. degree with the School of Marine Science and Technology, Northwestern Polytechnical University, supervised by Prof. [Xiao-Lei Zhang](http://www.xiaolei-zhang.net/). Concurrently, I serve as an algorithm intern at the Institute of Artificial Intelligence (TeleAI), China Telecom, where I work under the leadership of [Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm). My research interests include sound source localization, source separation, spatial audio generation and audio quality enhancement.
 
 
 # 🏫 Educations
@@ -36,4 +36,4 @@ Hi, I am a Ph.D. candidate at the School of Marine Science and Technology, North
 
 
 # 💻 Internships
-- *2024.01 - now*, Institute of Artificial Intelligence (TeleAI), China Telecom Corp Ltd, Beijing, China.
+- *2024.01 - now*, Institute of Artificial Intelligence (TeleAI), China Telecom, Beijing, China.
