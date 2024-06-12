@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working toward the Ph.D. degree with the School of Marine Science and Technology, Northwestern Polytechnical University. Concurrently, I serve as an algorithm intern at the Institute of Artificial Intelligence (TeleAI), China Telecom. My research interests include sound source localization, source separation, spatial audio generation and audio quality enhancement.
+I am working toward the Ph.D. in Information and Communication Engineering at Northwestern Polytechnical University. Currently, I am working as an algorithm intern at the Institute of Artificial Intelligence (TeleAI), China Telecom. My research interests include sound source localization, source separation, spatial audio generation, and audio quality enhancement.
 
 
 # 🏫 Educations
