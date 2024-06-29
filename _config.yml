@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Linfeng Feng（冯林峰）"
+  name             : "Linfeng Feng\n（冯林峰）"
   avatar           : "images/profile.png"
   bio              : "Northwestern Polytechnical University"
-  location         : "Xi'an, China"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=A4dcS38AAAAJ"
