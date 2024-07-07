@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working toward the Ph.D. in Information and Communication Engineering with the Northwestern Polytechnical University. Currently, I am working as an algorithm intern with the Institute of Artificial Intelligence (TeleAI), China Telecom. My research interests include spatial audio, audio quality enhancement, and multimodal learning.
+I am working toward the Ph.D. degree in information and communication engineering with the Northwestern Polytechnical University, Xi'an, China. Currently, I am working as an algorithm intern with the Institute of Artificial Intelligence (TeleAI), China Telecom. My research interests include spatial audio, audio quality enhancement, and multimodal learning.
 
 
 # 🏫 Educations
