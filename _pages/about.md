@@ -28,6 +28,7 @@ I am working toward the Ph.D. degree in information and communication engineerin
 
 # 📝 Publications
 **2024**
+- [Learning Multi-dimensional Speaker Localization: Axis Partitioning, Unbiased Label Distribution, and Data Augmentation](https://arxiv.org/abs/2311.12305), **Linfeng Feng**, Yijun Gong, Zhi Liu, Xiao-Lei Zhang, and Xuelong Li, **IEEE TASLP**.
 - [Eliminating Quantization Errors in Classification-Based Sound Source Localization](https://arxiv.org/abs/2311.12305), **Linfeng Feng**, Xiao-Lei Zhang, and Xuelong Li, **Preprint**.
 
 **2023**
