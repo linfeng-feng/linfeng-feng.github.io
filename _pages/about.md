@@ -29,7 +29,7 @@ I am working toward the Ph.D. degree in information and communication engineerin
 # 📝 Publications
 **2024**
 - [Learning Multi-dimensional Speaker Localization: Axis Partitioning, Unbiased Label Distribution, and Data Augmentation](https://arxiv.org/abs/2311.12305), **Linfeng Feng**, Yijun Gong, Zhi Liu, Xiao-Lei Zhang, and Xuelong Li, **IEEE TASLP**.
-- [Eliminating Quantization Errors in Classification-Based Sound Source Localization](https://arxiv.org/abs/2311.12305), **Linfeng Feng**, Xiao-Lei Zhang, and Xuelong Li, **Preprint**. [Code](https://github.com/linfeng-feng/ULD)
+- [Eliminating Quantization Errors in Classification-Based Sound Source Localization](https://arxiv.org/abs/2311.12305), **Linfeng Feng**, Xiao-Lei Zhang, and Xuelong Li, **Preprint**. [[Code]](https://github.com/linfeng-feng/ULD)
 
 **2023**
 - [Soft Label Coding for End-to-end Sound Source Localization with Ad-hoc Microphone Arrays](https://ieeexplore.ieee.org/abstract/document/10094647), **Linfeng Feng**, Yijun Gong, and Xiao-Lei Zhang, **ICASSP 2023**.
