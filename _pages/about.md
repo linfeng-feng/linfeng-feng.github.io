@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working toward the Ph.D. degree in information and communication engineering with the Northwestern Polytechnical University, Xi'an, China. Currently, I am working as an algorithm intern with the Institute of Artificial Intelligence (TeleAI), China Telecom. My research interests include spatial audio, audio quality enhancement, and multimodal learning.
+I am working toward the Ph.D. degree in information and communication engineering with the Northwestern Polytechnical University, Xi'an, China. Currently, I am working as an algorithm intern with the Institute of Artificial Intelligence (TeleAI), China Telecom. My research interests include spatial audio, speech enhancement, and multimodal learning.
 
 
 # 🏫 Educations
@@ -29,10 +29,10 @@ I am working toward the Ph.D. degree in information and communication engineerin
 # 📝 Publications
 **2024**
 - [Learning Multi-dimensional Speaker Localization: Axis Partitioning, Unbiased Label Distribution, and Data Augmentation](https://arxiv.org/abs/2311.12305), **Linfeng Feng**, Yijun Gong, Zhi Liu, Xiao-Lei Zhang, and Xuelong Li, **IEEE TASLP**.
-- [Eliminating Quantization Errors in Classification-Based Sound Source Localization](https://arxiv.org/abs/2311.12305), **Linfeng Feng**, Xiao-Lei Zhang, and Xuelong Li, **Preprint**. [[code](https://github.com/linfeng-feng/ULD)]
+- [Eliminating Quantization Errors in Classification-Based Sound Source Localization](https://arxiv.org/abs/2311.12305), **Linfeng Feng**, Xiao-Lei Zhang, and Xuelong Li, **Preprint**. [[code](https://github.com/linfeng-feng/ULD)] [[pdf](papers/2024 - Eliminating Quantization Errors in Classification-Based Sound Source Localization.pdf)]
 
 **2023**
-- [Soft Label Coding for End-to-end Sound Source Localization with Ad-hoc Microphone Arrays](https://ieeexplore.ieee.org/abstract/document/10094647), **Linfeng Feng**, Yijun Gong, and Xiao-Lei Zhang, **ICASSP 2023**.
+- [Soft Label Coding for End-to-end Sound Source Localization with Ad-hoc Microphone Arrays](https://ieeexplore.ieee.org/abstract/document/10094647), **Linfeng Feng**, Yijun Gong, and Xiao-Lei Zhang, **ICASSP 2023**. [[pdf](papers/2023 - SOFT LABEL CODING FOR END-TO-END SOUND SOURCE LOCALIZATION WITH AD-HOC MICROPHONE ARRAYS.pdf)]
 
 
 
