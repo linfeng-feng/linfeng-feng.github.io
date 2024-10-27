@@ -25,7 +25,10 @@ I am working toward the Ph.D. degree in information and communication engineerin
 - *2021.09 - 2024.03*, M.S. in Information and Communication Engineer, Northwestern Polytechnical University, Xi'an, China.
 - *2017.09 - 2021.06*, B.S. in Communication Engineer, Guangdong Polytechnic Normal University, Guangzhou, China.
 
-# 🎖 Competitions
+# 💻 Internships
+- *2024.01 - now*, Institute of Artificial Intelligence (TeleAI), China Telecom, Beijing, China.
+
+# 🎖️ Competitions
 - **First place on WAcc and third place on overall score**, [URGENT speech enhancement challenge of **NeurIPS 2024**](https://urgent-challenge.github.io/urgent2024/), **first author**. [[Leaderboard](https://urgent-challenge.com/competitions/5#final_results)]
 
 # 📝 Publications
@@ -36,8 +39,3 @@ I am working toward the Ph.D. degree in information and communication engineerin
 
 **2023**
 - [Soft Label Coding for End-to-end Sound Source Localization with Ad-hoc Microphone Arrays](https://ieeexplore.ieee.org/abstract/document/10094647), **Linfeng Feng**, Yijun Gong, and Xiao-Lei Zhang, **Proceedings of the 47th IEEE International Conference on Acoustic, Speech, and Signal Processing (ICASSP 2023)**.[[pdf](http://www.xiaolei-zhang.net/papers/Feng,%20Gong,%20Zhang%20-%202023%20-%20SOFT%20LABEL%20CODING%20FOR%20END-TO-END%20SOUND%20SOURCE%20LOCALIZATION%20WITH%20AD-HOC%20MICROPHONE%20ARRAYS%20Linfeng%20Feng%20,%20Yijun.pdf)]
-
-
-
-# 💻 Internships
-- *2024.01 - now*, Institute of Artificial Intelligence (TeleAI), China Telecom, Beijing, China.
