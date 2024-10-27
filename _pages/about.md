@@ -26,7 +26,7 @@ I am working toward the Ph.D. degree in information and communication engineerin
 - *2017.09 - 2021.06*, B.S. in Communication Engineer, Guangdong Polytechnic Normal University, Guangzhou, China.
 
 # 🎖 Competitions
-- **First place on WAcc and third place on overall score**, URGENT speech enhancement challenge of **NeurIPS 2024**, **Linfeng Feng**, Hao Ma, Haocheng Dong, Zhihao Huang, Jing Zhou, Boyu Zhu, Lei Zhao, Dongxu Ge, Xiao-Lei Zhang, Jie Li, Xuelong Li. [[Leaderboard](https://urgent-challenge.com/competitions/5#final_results)]
+- **First place on WAcc and third place on overall score**, [URGENT speech enhancement challenge of **NeurIPS 2024**](https://urgent-challenge.github.io/urgent2024/), **first author**. [[Leaderboard](https://urgent-challenge.com/competitions/5#final_results)]
 
 # 📝 Publications
 **2024**
