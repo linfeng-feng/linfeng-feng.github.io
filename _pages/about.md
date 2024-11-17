@@ -29,7 +29,7 @@ Hi, this is Linfeng Feng from Guangdong, China, known for its Cantonese culture,
 - *2024.01 - now*, Institute of Artificial Intelligence (TeleAI), China Telecom, Beijing, China.
 
 # 🎖️ Competitions
-- **First place on WAcc and third place on overall score**, [URGENT speech enhancement challenge of **NeurIPS 2024**](https://urgent-challenge.github.io/urgent2024/), **first author**. [[Leaderboard](https://urgent-challenge.com/competitions/5#final_results)]
+- **First place on ASR and third place on overall score**, [URGENT speech enhancement challenge of **NeurIPS 2024**](https://urgent-challenge.github.io/urgent2024/), **first author**. [[Leaderboard](https://urgent-challenge.com/competitions/5#final_results)]
 
 # 📝 Publications
 **2024**
