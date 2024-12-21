@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Linfeng Feng from Guangdong, China, where it is known for its Cantonese pop, delicious cuisine, and humid climate.
-
+Hi, this is Linfeng Feng from Guangdong, China, where it is known for its Cantonese pop, delicious cuisine, and humid climate.  
 I am currently working toward the Ph.D. degree in information and communication engineering with the Northwestern Polytechnical University, Xi'an, China. Concurrently, I am an intern with the Institute of Artificial Intelligence (TeleAI), China Telecom. My research interests include spatial audio, speech enhancement, and multimodal learning.
 
 
