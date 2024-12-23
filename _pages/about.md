@@ -35,10 +35,6 @@ I am currently working toward the Ph.D. degree in information and communication 
 [URGENT speech enhancement challenge of **NeurIPS 2024**](https://urgent-challenge.github.io/urgent2024/)
 
 # 📝 Publications
-**2025**
-- Co-Attention Based Multi-Channel TF-GridNet for Speech Separation with Ad-Hoc Microphone Arrays  
-  Hongmei Guo, **Linfeng Feng**, Yijiang Chen, Xueqing Li, Boyu Zhu, Hao-Yu Wang, Xiao-Lei Zhang, and Xuelong Li  
-  **Proceedings of the 49th IEEE International Conference on Acoustic, Speech, and Signal Processing (ICASSP 2025)**
   
 **2024**
 - Quantization-error-free soft label for 2D sound source localization  
