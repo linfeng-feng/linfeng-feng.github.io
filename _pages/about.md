@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Linfeng Feng from Guangdong, China, where it is known for its Cantonese pop, delicious cuisine, and humid climate.  
+😊 Hi, this is Linfeng Feng from Guangdong, China, where it is known for its Cantonese pop, delicious cuisine, and humid climate.  
 I am currently working toward the Ph.D. degree in information and communication engineering with the Northwestern Polytechnical University, Xi'an, China. Concurrently, I am an intern with the Institute of Artificial Intelligence (TeleAI), China Telecom. My research interests include spatial audio, speech enhancement, and multimodal learning.
 
 
@@ -36,7 +36,7 @@ I am currently working toward the Ph.D. degree in information and communication 
 # 📝 Publications
   
 **2024**
-- [Quantization-error-free soft label for 2D sound source localization](https://ieeexplore.ieee.org/abstract/document/10800169)  
+- [Quantization-error-free soft label for 2D sound source localization](https://ieeexplore.ieee.org/abstract/document/10800169) [[pdf](http://www.xiaolei-zhang.net/papers/Feng,%20Zhang,%20Li%20-%202024%20-%20Quantization-Error-Free%20Soft%20Label%20for%202D%20Sound%20Source%20Localization.pdf)]  
   **Linfeng Feng**, Xiao-Lei Zhang, and Xuelong Li  
   **Proceedings of 14th International Symposium on Chinese Spoken Language Processing (ISCSLP 2024)**
 - [Learning Multi-dimensional Speaker Localization: Axis Partitioning, Unbiased Label Distribution, and Data Augmentation](https://ieeexplore.ieee.org/document/10609831) [[pdf](http://www.xiaolei-zhang.net/papers/Feng%20et%20al.%20-%202024%20-%20Learning%20Multi-Dimensional%20Speaker%20Localization%20Axis%20Partitioning%20,%20Unbiased%20Label%20Distribution%20,%20and%20Data%20Augment.pdf)]   
