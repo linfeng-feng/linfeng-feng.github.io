@@ -32,7 +32,7 @@ I am currently working toward the Ph.D. degree in information and communication 
 # 📝 Publications
 **2025**
 - [UniForm: A Unified Diffusion Transformer for Audio-Video Generation](https://arxiv.org/abs/2502.03897) [[pdf](https://arxiv.org/pdf/2502.03897)] [[demo](https://uniform-t2av.github.io/)]  
-  Lei Zhao⁺, **Linfeng Feng⁺**, Dongxu Ge⁺, Fangqiu Yi, Chi Zhang, Xiao-Lei Zhang, Xuelong Li   
+  Lei Zhao⁺, **Linfeng Feng**⁺, Dongxu Ge⁺, Fangqiu Yi, Chi Zhang, Xiao-Lei Zhang, Xuelong Li   
   **Preprint**
   
 **2024**
