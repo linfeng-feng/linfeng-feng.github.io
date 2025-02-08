@@ -34,9 +34,14 @@ I am currently working toward the Ph.D. degree in information and communication 
   **Linfeng Feng**, Hao Ma, Haocheng Dong, Lei Zhao, Boyu Zhu, Zhihao Huang, Jing Zhou, Xiao-Lei Zhang, and Xuelong Li  
 
 # 📝 Publications
+
+**2025**
+- [UniForm: A Unified Diffusion Transformer for Audio-Video Generation](https://arxiv.org/abs/2502.03897) [[pdf](https://arxiv.org/pdf/2502.03897)] [[demo](https://uniform-t2av.github.io/)]  
+  Lei Zhao*, **Linfeng Feng***, Dongxu Ge*, Fangqiu Yi, Chi Zhang, Xiao-Lei Zhang, Xuelong Li   
+  **Preprint**
   
 **2024**
-- [Quantization-error-free soft label for 2D sound source localization](https://ieeexplore.ieee.org/abstract/document/10800169) [[pdf](http://www.xiaolei-zhang.net/papers/Feng,%20Zhang,%20Li%20-%202024%20-%20Quantization-Error-Free%20Soft%20Label%20for%202D%20Sound%20Source%20Localization.pdf)]  
+- [Quantization-error-free soft label for 2D sound source localization](https://ieeexplore.ieee.org/abstract/document/10800169) [[pdf](http://www.xiaolei-zhang.net/papers/Feng,%20Zhang,%20Li%20-%202024%20-%20Quantization-Error-Free%20Soft%20Label%20for%202D%20Sound%20Source%20Localization.pdf)] [[demo](https://uniform-t2av.github.io/)]  
   **Linfeng Feng**, Xiao-Lei Zhang, and Xuelong Li  
   **Proceedings of 14th International Symposium on Chinese Spoken Language Processing (ISCSLP 2024)**
 - [Learning Multi-dimensional Speaker Localization: Axis Partitioning, Unbiased Label Distribution, and Data Augmentation](https://ieeexplore.ieee.org/document/10609831) [[pdf](http://www.xiaolei-zhang.net/papers/Feng%20et%20al.%20-%202024%20-%20Learning%20Multi-Dimensional%20Speaker%20Localization%20Axis%20Partitioning%20,%20Unbiased%20Label%20Distribution%20,%20and%20Data%20Augment.pdf)]   
