@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 😊 Hi, this is Linfeng Feng from Guangdong, China, where it is known for its Cantonese pop, delicious cuisine, and humid climate.  
-I am currently working toward the Ph.D. degree in information and communication engineering with the Northwestern Polytechnical University, Xi'an, China. Concurrently, I am an intern with the Institute of Artificial Intelligence (TeleAI), China Telecom. My research interests include **spatial audio, speech enhancement, and multimodal learning**.
+I am currently working toward the Ph.D. degree in information and communication engineering with the Northwestern Polytechnical University, Xi'an, China. Concurrently, I am an intern with the Institute of Artificial Intelligence (TeleAI), China Telecom. My research interests include spatial audio, speech enhancement, and multimodal learning.
 
 
 # 🏫 Educations
@@ -29,12 +29,7 @@ I am currently working toward the Ph.D. degree in information and communication 
 # 💻 Internships
 - *2024.01 - now*, Institute of Artificial Intelligence (TeleAI), China Telecom, Beijing, China.
 
-# 🎖️ Competitions
-- First place on ASR and third place on overall score, [URGENT speech enhancement challenge of **NeurIPS 2024**](https://urgent-challenge.github.io/urgent2024/) [[Leaderboard](https://urgent-challenge.com/competitions/5#final_results)]  
-  **Linfeng Feng**, Hao Ma, Haocheng Dong, Lei Zhao, Boyu Zhu, Zhihao Huang, Jing Zhou, Xiao-Lei Zhang, and Xuelong Li  
-
 # 📝 Publications
-
 **2025**
 - [UniForm: A Unified Diffusion Transformer for Audio-Video Generation](https://arxiv.org/abs/2502.03897) [[pdf](https://arxiv.org/pdf/2502.03897)] [[demo](https://uniform-t2av.github.io/)]  
   Lei Zhao⁺, **Linfeng Feng⁺**, Dongxu Ge⁺, Fangqiu Yi, Chi Zhang, Xiao-Lei Zhang, Xuelong Li   
@@ -55,3 +50,7 @@ I am currently working toward the Ph.D. degree in information and communication 
 - [Soft Label Coding for End-to-end Sound Source Localization with Ad-hoc Microphone Arrays](https://ieeexplore.ieee.org/abstract/document/10094647) [[pdf](http://www.xiaolei-zhang.net/papers/Feng,%20Gong,%20Zhang%20-%202023%20-%20SOFT%20LABEL%20CODING%20FOR%20END-TO-END%20SOUND%20SOURCE%20LOCALIZATION%20WITH%20AD-HOC%20MICROPHONE%20ARRAYS%20Linfeng%20Feng%20,%20Yijun.pdf)]  
   **Linfeng Feng**, Yijun Gong, and Xiao-Lei Zhang  
   **Proceedings of the 47th IEEE International Conference on Acoustic, Speech, and Signal Processing (ICASSP 2023)**
+
+# 🎖️ Competitions
+- First place on ASR and third place on overall score, [URGENT speech enhancement challenge of **NeurIPS 2024**](https://urgent-challenge.github.io/urgent2024/) [[Leaderboard](https://urgent-challenge.com/competitions/5#final_results)]  
+  **Linfeng Feng**, Hao Ma, Haocheng Dong, Lei Zhao, Boyu Zhu, Zhihao Huang, Jing Zhou, Xiao-Lei Zhang, and Xuelong Li  
