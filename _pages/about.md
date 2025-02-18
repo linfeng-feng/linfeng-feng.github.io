@@ -31,6 +31,9 @@ I am currently working toward the Ph.D. degree in information and communication 
 
 # 📝 Publications
 **2025**
+- [AudioSpa: Spatializing Sound Events with Text](https://arxiv.org/abs/2502.11219) [[pdf](https://arxiv.org/pdf/2502.11219)] [[demo](https://linfeng-feng.github.io/AudioSpa-demo)]  
+  **Linfeng Feng**⁺, Lei Zhao⁺, Boyu Zhu, Xiao-Lei Zhang, Xuelong Li   
+  **Preprint**
 - [UniForm: A Unified Diffusion Transformer for Audio-Video Generation](https://arxiv.org/abs/2502.03897) [[pdf](https://arxiv.org/pdf/2502.03897)] [[demo](https://uniform-t2av.github.io/)]  
   Lei Zhao⁺, **Linfeng Feng**⁺, Dongxu Ge⁺, Fangqiu Yi, Chi Zhang, Xiao-Lei Zhang, Xuelong Li   
   **Preprint**
