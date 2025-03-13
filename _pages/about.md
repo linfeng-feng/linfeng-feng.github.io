@@ -32,7 +32,7 @@ I am currently working toward the Ph.D. degree in information and communication 
 # 📝 Publications
 **2025**
 - [Co-Attention Based Multi-Channel TF-GridNet for Speech Separation with Ad-Hoc Microphone Arrays](https://ieeexplore.ieee.org/abstract/document/10888193)  
-  Hongmei Guo, **Linfeng Feng**, Yijiang Chen, Xueqing Li, Boyu Zhu, Hao-Yu Wang, Xiao-Lei Zhang, Xuelong Li
+  Hongmei Guo, **Linfeng Feng**, Yijiang Chen, Xueqing Li, Boyu Zhu, Hao-Yu Wang, Xiao-Lei Zhang, Xuelong Li  
   **Proceedings of the 49th IEEE International Conference on Acoustic, Speech, and Signal Processing (ICASSP 2025)**
 - [AudioSpa: Spatializing Sound Events with Text](https://arxiv.org/abs/2502.11219) [[pdf](https://arxiv.org/pdf/2502.11219)] [[demo](https://linfeng-feng.github.io/AudioSpa-demo)]  
   **Linfeng Feng**⁺, Lei Zhao⁺, Boyu Zhu, Xiao-Lei Zhang, Xuelong Li   
