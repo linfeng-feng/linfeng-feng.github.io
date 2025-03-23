@@ -12,11 +12,11 @@ main:
   - title: "Internships"
     url: "/#-internships"
 
-  - title: "Competitions"
-    url: "/#-competitions"
-
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "Competitions"
+    url: "/#-competitions"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
