@@ -18,6 +18,9 @@ main:
   - title: "Competitions"
     url: "/#-competitions"
 
+  - title: "Others"
+    url: "/#-others"
+
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
 
