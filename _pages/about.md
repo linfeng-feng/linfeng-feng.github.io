@@ -69,4 +69,5 @@ I am currently working toward the Ph.D. degree in information and communication 
 - IEEE Signal Processing Letters (SPL),
 - EURASIP Journal on Audio, Speech, and Music Processing,
 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),
-- Conference of the International SpeechCommunication Association (INTERSPEECH),.
+- Conference of the International SpeechCommunication Association (INTERSPEECH),
+- National Conference on Man-Machine Speech Communication (NCMMSC).
