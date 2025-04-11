@@ -47,7 +47,7 @@ I am currently working toward the Ph.D. degree in information and communication 
   **Proceedings of 14th International Symposium on Chinese Spoken Language Processing (ISCSLP 2024)**
 - [Learning Multi-dimensional Speaker Localization: Axis Partitioning, Unbiased Label Distribution, and Data Augmentation](https://ieeexplore.ieee.org/document/10609831) [[pdf](http://www.xiaolei-zhang.net/papers/Feng%20et%20al.%20-%202024%20-%20Learning%20Multi-Dimensional%20Speaker%20Localization%20Axis%20Partitioning%20,%20Unbiased%20Label%20Distribution%20,%20and%20Data%20Augment.pdf)]   
   **Linfeng Feng**, Yijun Gong, Zhi Liu, Xiao-Lei Zhang, and Xuelong Li  
-  **IEEE/ACM Transactions on Audio, Speech and Language Processing (T-ASLP)**
+  **IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)**
 - [Eliminating Quantization Errors in Classification-Based Sound Source Localization](https://www.sciencedirect.com/science/article/pii/S0893608024006038) [[pdf](http://www.xiaolei-zhang.net/papers/Feng,%20Zhang,%20Li%20-%202025%20-%20Eliminating%20quantization%20errors%20in%20classification-based%20sound%20source%20localization.pdf)] [[code](https://github.com/linfeng-feng/ULD)]  
   **Linfeng Feng**, Xiao-Lei Zhang, and Xuelong Li  
   **Neural Networks**
@@ -65,7 +65,7 @@ I am currently working toward the Ph.D. degree in information and communication 
 
 **Reviewer**
 - Neural Networks,
-- IEEE/ACM Transactions on Audio, Speech and Language Processing (T-ASLP),
+- IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP),
 - IEEE Signal Processing Letters (SPL),
 - EURASIP Journal on Audio, Speech, and Music Processing,
 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),
