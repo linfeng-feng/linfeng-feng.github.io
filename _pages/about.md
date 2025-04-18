@@ -32,7 +32,7 @@ I am currently working toward the Ph.D. degree in information and communication 
 # 📝 Publications
 **2025**
 - [DualSpec: Text-to-spatial-audio Generation via Dual-Spectrogram Guided Diffusion Model](https://arxiv.org/abs/2502.18952) [[pdf](https://arxiv.org/pdf/2502.18952)] [[demo](https://lei-zhao123.github.io/DualSpec.github.io/)]  
-  Lei Zhao\*, Sizhou Chen\*, **Linfeng Feng\***, Xiao-Lei Zhang, Xuelong Li 
+  Lei Zhao\*, Sizhou Chen\*, **Linfeng Feng\***, Xiao-Lei Zhang, Xuelong Li  
   **Preprint**
 - [AudioSpa: Spatializing Sound Events with Text](https://arxiv.org/abs/2502.11219) [[pdf](https://arxiv.org/pdf/2502.11219)] [[demo](https://linfeng-feng.github.io/AudioSpa-demo)]  
   **Linfeng Feng\***, Lei Zhao\*, Boyu Zhu, Xiao-Lei Zhang, Xuelong Li   
