@@ -31,11 +31,17 @@ I am currently working toward the Ph.D. degree in information and communication 
 
 # 📝 Publications
 **2025**
+- [DualSpec: Text-to-spatial-audio Generation via Dual-Spectrogram Guided Diffusion Model](https://arxiv.org/abs/2502.18952) [[pdf](https://arxiv.org/pdf/2502.18952)] [[demo](https://lei-zhao123.github.io/DualSpec.github.io/)]  
+  Lei Zhao\*, Sizhou Chen\*, **Linfeng Feng\***, Xiao-Lei Zhang, Xuelong Li 
+  **Preprint**
 - [AudioSpa: Spatializing Sound Events with Text](https://arxiv.org/abs/2502.11219) [[pdf](https://arxiv.org/pdf/2502.11219)] [[demo](https://linfeng-feng.github.io/AudioSpa-demo)]  
   **Linfeng Feng\***, Lei Zhao\*, Boyu Zhu, Xiao-Lei Zhang, Xuelong Li   
   **Preprint**
 - [UniForm: A Unified Multi Task Diffusion Transformer for Audio-Video Generation](https://arxiv.org/abs/2502.03897) [[pdf](https://arxiv.org/pdf/2502.03897)] [[demo](https://uniform-t2av.github.io/)]  
   Lei Zhao\*, **Linfeng Feng\***, Dongxu Ge\*, Rujin Chen, Fangqiu Yi, Chi Zhang, Xiao-Lei Zhang, Xuelong Li   
+  **Preprint**
+- [Deep Learning Based Stage-wise Two-dimensional Speaker Localization with Large Ad-hoc Microphone Arrays](https://arxiv.org/abs/2210.10265) [[pdf](https://arxiv.org/pdf/2210.10265)]  
+  Shupei Liu\*, **Linfeng Feng\***, Yijun Gong, Chengdong Liang, Chen Zhang, Xiao-Lei Zhang, Xuelong Li  
   **Preprint**
 - [Co-Attention Based Multi-Channel TF-GridNet for Speech Separation with Ad-Hoc Microphone Arrays](https://ieeexplore.ieee.org/abstract/document/10888193)  
   Hongmei Guo, **Linfeng Feng**, Yijiang Chen, Xueqing Li, Boyu Zhu, Hao-Yu Wang, Xiao-Lei Zhang, Xuelong Li  
