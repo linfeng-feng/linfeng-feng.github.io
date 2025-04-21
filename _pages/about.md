@@ -41,7 +41,7 @@ redirect_from:
   **Preprint**
 - [Deep Learning Based Stage-wise Two-dimensional Speaker Localization with Large Ad-hoc Microphone Arrays](https://arxiv.org/abs/2210.10265) [[pdf](https://arxiv.org/pdf/2210.10265)]  
   Shupei Liu\*, **Linfeng Feng\***, Yijun Gong, Chengdong Liang, Chen Zhang, Xiao-Lei Zhang, Xuelong Li  
-  **Preprint**
+  **Speech Communication**
 - [Co-Attention Based Multi-Channel TF-GridNet for Speech Separation with Ad-Hoc Microphone Arrays](https://ieeexplore.ieee.org/abstract/document/10888193)  
   Hongmei Guo, **Linfeng Feng**, Yijiang Chen, Xueqing Li, Boyu Zhu, Hao-Yu Wang, Xiao-Lei Zhang, Xuelong Li  
   **Proceedings of the 49th IEEE International Conference on Acoustic, Speech, and Signal Processing (ICASSP 2025)**
