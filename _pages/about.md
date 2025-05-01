@@ -39,7 +39,7 @@ redirect_from:
 - [UniForm: A Unified Multi-Task Diffusion Transformer for Audio-Video Generation](https://arxiv.org/abs/2502.03897) [[pdf](https://arxiv.org/pdf/2502.03897)] [[demo](https://uniform-t2av.github.io/)]  
   Lei Zhao\*, **Linfeng Feng\***, Dongxu Ge\*, Rujin Chen, Fangqiu Yi, Chi Zhang, Xiao-Lei Zhang, Xuelong Li   
   **Preprint**
-- [Deep Learning Based Stage-wise Two-dimensional Speaker Localization with Large Ad-hoc Microphone Arrays](https://arxiv.org/abs/2210.10265) [[pdf](https://arxiv.org/pdf/2210.10265)]  
+- [Deep Learning Based Stage-wise Two-dimensional Speaker Localization with Large Ad-hoc Microphone Arrays](https://www.sciencedirect.com/science/article/pii/S0167639325000627) [[pdf](https://arxiv.org/pdf/2210.10265)]  
   Shupei Liu\*, **Linfeng Feng\***, Yijun Gong, Chengdong Liang, Chen Zhang, Xiao-Lei Zhang, Xuelong Li  
   **Speech Communication**
 - [Co-Attention Based Multi-Channel TF-GridNet for Speech Separation with Ad-Hoc Microphone Arrays](https://ieeexplore.ieee.org/abstract/document/10888193)  
