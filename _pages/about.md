@@ -30,7 +30,7 @@ redirect_from:
 
 # 📝 Publications
 **2025**
-- MBENet: Bone-conduction and Air-conduction Fusion Network for Target Speaker Extraction
+- MBENet: Bone-conduction and Air-conduction Fusion Network for Target Speaker Extraction  
   Chen Zhang, **Linfeng Feng**, Zhi Liu, Xiao-Lei Zhang, Xuelong Li  
   **2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU 2025)**
 - [DualSpec: Text-to-spatial-audio Generation via Dual-Spectrogram Guided Diffusion Model](https://arxiv.org/abs/2502.18952) [[pdf](https://arxiv.org/pdf/2502.18952)] [[demo](https://lei-zhao123.github.io/DualSpec.github.io/)]  
