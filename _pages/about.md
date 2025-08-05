@@ -78,4 +78,5 @@ redirect_from:
 - EURASIP Journal on Audio, Speech, and Music Processing,
 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),
 - Conference of the International Speech Communication Association (INTERSPEECH),
+- IEEE Automatic Speech Recognition and Understanding Workshop (ASRU),
 - National Conference on Man-Machine Speech Communication (NCMMSC).
