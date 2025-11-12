@@ -39,12 +39,12 @@ redirect_from:
 - [DualSpec: Text-to-spatial-audio Generation via Dual-Spectrogram Guided Diffusion Model](https://arxiv.org/abs/2502.18952) [[pdf](https://arxiv.org/pdf/2502.18952)] [[demo](https://lei-zhao123.github.io/DualSpec.github.io/)]  
   Lei Zhao\*, Sizhou Chen\*, **Linfeng Feng\***, Xiao-Lei Zhang, Xuelong Li  
   **IEEE Transactions on Multimedia (TMM)**
-- MBENet: Bone-conduction and Air-conduction Fusion Network for Target Speaker Extraction  
-  Chen Zhang, **Linfeng Feng**, Zhi Liu, Xiao-Lei Zhang, Xuelong Li  
-  **2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU 2025)**
 - [Deep learning based stage-wise two-dimensional speaker localization with large ad-hoc microphone arrays](https://www.sciencedirect.com/science/article/pii/S0167639325000627) [[pdf](https://arxiv.org/pdf/2210.10265)]  
   Shupei Liu\*, **Linfeng Feng\***, Yijun Gong, Chengdong Liang, Chen Zhang, Xiao-Lei Zhang, Xuelong Li  
   **Speech Communication**
+- MBENet: Bone-conduction and Air-conduction Fusion Network for Target Speaker Extraction  
+  Chen Zhang, **Linfeng Feng**, Zhi Liu, Xiao-Lei Zhang, Xuelong Li  
+  **2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU 2025)**
 - [Co-Attention Based Multi-Channel TF-GridNet for Speech Separation with Ad-Hoc Microphone Arrays](https://ieeexplore.ieee.org/abstract/document/10888193)  
   Hongmei Guo, **Linfeng Feng**, Yijiang Chen, Xueqing Li, Boyu Zhu, Hao-Yu Wang, Xiao-Lei Zhang, Xuelong Li  
   **Proceedings of the 49th IEEE International Conference on Acoustic, Speech, and Signal Processing (ICASSP 2025)**
