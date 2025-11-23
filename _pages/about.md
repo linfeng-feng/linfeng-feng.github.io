@@ -42,7 +42,7 @@ redirect_from:
 - [Deep learning based stage-wise two-dimensional speaker localization with large ad-hoc microphone arrays](https://www.sciencedirect.com/science/article/pii/S0167639325000627) [[pdf](https://arxiv.org/pdf/2210.10265)]  
   Shupei Liu\*, **Linfeng Feng\***, Yijun Gong, Chengdong Liang, Chen Zhang, Xiao-Lei Zhang, Xuelong Li  
   **Speech Communication**
-- [Edge-collaborative multi-channel speaker verification via spatial-temporal graph with ad-hoc microphone arrays](https://link.springer.com/article/10.1007/s44336-025-00023-y) [[pdf](https://link.springer.com/content/pdf/10.1007/s44336-025-00023-y.pdf)] 
+- [Edge-collaborative multi-channel speaker verification via spatial-temporal graph with ad-hoc microphone arrays](https://link.springer.com/article/10.1007/s44336-025-00023-y) [[pdf](https://link.springer.com/content/pdf/10.1007/s44336-025-00023-y.pdf)]  
   Yijiang Chen, Chengdong Liang, Sizhou Chen, **Linfeng Feng**, Boyu Zhu, Chi Zhang, Xiao‑Lei Zhang  
   **Vicinagearth**
 - MBENet: Bone-conduction and Air-conduction Fusion Network for Target Speaker Extraction  
