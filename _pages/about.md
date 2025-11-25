@@ -36,6 +36,9 @@ redirect_from:
 - [UniForm: A Unified Multi-Task Diffusion Transformer for Audio-Video Generation](https://arxiv.org/abs/2502.03897) [[pdf](https://arxiv.org/pdf/2502.03897)] [[demo](https://uniform-t2av.github.io/)]  
   Lei Zhao\*, **Linfeng Feng\***, Dongxu Ge\*, Rujin Chen, Fangqiu Yi, Chi Zhang, Xiao-Lei Zhang, Xuelong Li   
   **Preprint**
+- [Towards a flexible and unified architecture for speech enhancement](https://link.springer.com/article/10.1007/s44336-025-00022-z) [[pdf](https://link.springer.com/content/pdf/10.1007/s44336-025-00022-z.pdf)]  
+  **Linfeng Feng**, Chi Zhang, Xiao‑Lei Zhang  
+  **Vicinagearth**
 - [DualSpec: Text-to-spatial-audio Generation via Dual-Spectrogram Guided Diffusion Model](https://arxiv.org/abs/2502.18952) [[pdf](https://arxiv.org/pdf/2502.18952)] [[demo](https://lei-zhao123.github.io/DualSpec.github.io/)]  
   Lei Zhao\*, Sizhou Chen\*, **Linfeng Feng\***, Xiao-Lei Zhang, Xuelong Li  
   **IEEE Transactions on Multimedia (TMM)**
