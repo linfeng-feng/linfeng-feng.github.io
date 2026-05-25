@@ -29,6 +29,14 @@ redirect_from:
 - *2024.01 - now*, Institute of Artificial Intelligence (TeleAI), China Telecom, China.
 
 # 📝 Publications
+**2026**
+- [Enhance, Then Separate: A Two-Stage Framework for Music Source Restoration](https://ieeexplore.ieee.org/abstract/document/11464499/authors#authors)  
+  **Linfeng Feng**, Jiajun Li, Cheng Gong, Shansong Liu, Chi Zhang, Xiao-Lei Zhang, Xuelong Li  
+  **2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)**
+- [DualSpec: Text-to-spatial-audio Generation via Dual-Spectrogram Guided Diffusion Model](https://ieeexplore.ieee.org/document/11433063/) [[pdf](https://arxiv.org/pdf/2502.18952)] [[demo](https://lei-zhao123.github.io/DualSpec.github.io/)]  
+  Lei Zhao\*, Sizhou Chen\*, **Linfeng Feng\***, Xiao-Lei Zhang, Xuelong Li  
+  **IEEE Transactions on Multimedia (TMM)**
+
 **2025**
 - [AudioSpa: Spatializing Sound Events with Text](https://arxiv.org/abs/2502.11219) [[pdf](https://arxiv.org/pdf/2502.11219)] [[demo](https://linfeng-feng.github.io/AudioSpa-demo)]  
   **Linfeng Feng\***, Lei Zhao\*, Boyu Zhu, Xiao-Lei Zhang, Xuelong Li   
@@ -39,16 +47,13 @@ redirect_from:
 - [Towards a flexible and unified architecture for speech enhancement](https://link.springer.com/article/10.1007/s44336-025-00022-z) [[pdf](https://link.springer.com/content/pdf/10.1007/s44336-025-00022-z.pdf)] [[demo](https://linfeng-feng.github.io/SEFlow-demo/)]  
   **Linfeng Feng**, Chi Zhang, Xiao‑Lei Zhang  
   **Vicinagearth**
-- [DualSpec: Text-to-spatial-audio Generation via Dual-Spectrogram Guided Diffusion Model](https://arxiv.org/abs/2502.18952) [[pdf](https://arxiv.org/pdf/2502.18952)] [[demo](https://lei-zhao123.github.io/DualSpec.github.io/)]  
-  Lei Zhao\*, Sizhou Chen\*, **Linfeng Feng\***, Xiao-Lei Zhang, Xuelong Li  
-  **IEEE Transactions on Multimedia (TMM)**
 - [Deep learning based stage-wise two-dimensional speaker localization with large ad-hoc microphone arrays](https://www.sciencedirect.com/science/article/pii/S0167639325000627) [[pdf](https://arxiv.org/pdf/2210.10265)]  
   Shupei Liu\*, **Linfeng Feng\***, Yijun Gong, Chengdong Liang, Chen Zhang, Xiao-Lei Zhang, Xuelong Li  
   **Speech Communication**
 - [Edge-collaborative multi-channel speaker verification via spatial-temporal graph with ad-hoc microphone arrays](https://link.springer.com/article/10.1007/s44336-025-00023-y) [[pdf](https://link.springer.com/content/pdf/10.1007/s44336-025-00023-y.pdf)]  
   Yijiang Chen, Chengdong Liang, Sizhou Chen, **Linfeng Feng**, Boyu Zhu, Chi Zhang, Xiao‑Lei Zhang  
   **Vicinagearth**
-- MBENet: Bone-conduction and Air-conduction Fusion Network for Target Speaker Extraction  
+- [MBENet: Bone-conduction and Air-conduction Fusion Network for Target Speaker Extraction](https://ieeexplore.ieee.org/abstract/document/11434606)  
   Chen Zhang, **Linfeng Feng**, Zhi Liu, Xiao-Lei Zhang, Xuelong Li  
   **2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU 2025)**
 - [Co-Attention Based Multi-Channel TF-GridNet for Speech Separation with Ad-Hoc Microphone Arrays](https://ieeexplore.ieee.org/abstract/document/10888193)  
