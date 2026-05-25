@@ -30,7 +30,7 @@ redirect_from:
 
 # 📝 Publications
 **2026**
-- [Enhance, Then Separate: A Two-Stage Framework for Music Source Restoration](https://ieeexplore.ieee.org/abstract/document/11464499/authors#authors)  
+- [Enhance, Then Separate: A Two-Stage Framework for Music Source Restoration](https://ieeexplore.ieee.org/abstract/document/11464499/)  
   **Linfeng Feng**, Jiajun Li, Cheng Gong, Shansong Liu, Chi Zhang, Xiao-Lei Zhang, Xuelong Li  
   **2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)**
 - [DualSpec: Text-to-spatial-audio Generation via Dual-Spectrogram Guided Diffusion Model](https://ieeexplore.ieee.org/document/11433063/) [[pdf](https://arxiv.org/pdf/2502.18952)] [[demo](https://lei-zhao123.github.io/DualSpec.github.io/)]  
